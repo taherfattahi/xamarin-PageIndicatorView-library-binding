@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{849872E2-7584-4232-B9BB-D877E5DBF5CB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Resources/layout/activity_main.xml">
+    <Files>
+      <File FileName="Resources/layout/activity_main.xml" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="xamarin-binding1" expanded="True">
+            <Node name="xamarin-binding1" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True">
+                  <Node name="activity_main.xml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.xamarin-binding1 AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.W3D7N15930042716" />
+</Properties>

@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/taher-11/Documents/Project/Xamarin/xamarin-project/PageIndicatorView/xamarin-binding1/xamarin-binding1/xamarin-binding1.csproj": {}
+  },
+  "projects": {
+    "/Users/taher-11/Documents/Project/Xamarin/xamarin-project/PageIndicatorView/xamarin-binding1/xamarin-binding1/xamarin-binding1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/taher-11/Documents/Project/Xamarin/xamarin-project/PageIndicatorView/xamarin-binding1/xamarin-binding1/xamarin-binding1.csproj",
+        "projectName": "xamarin-binding1",
+        "projectPath": "/Users/taher-11/Documents/Project/Xamarin/xamarin-project/PageIndicatorView/xamarin-binding1/xamarin-binding1/xamarin-binding1.csproj",
+        "packagesPath": "/Users/taher-11/.nuget/packages/",
+        "outputPath": "/Users/taher-11/Documents/Project/Xamarin/xamarin-project/PageIndicatorView/xamarin-binding1/xamarin-binding1/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/taher-11/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
